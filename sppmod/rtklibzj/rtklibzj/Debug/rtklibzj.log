@@ -1,0 +1,15 @@
+﻿  mian.cpp
+  options.cpp
+  pntpos.cpp
+  postpos.cpp
+D:\sppmode\src\postpos.cpp(186,11): warning C4101: “ext”: 未引用的局部变量
+  rinex.cpp
+D:\sppmode\src\rinex.cpp(240,40): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  rtkpos.cpp
+  sbas.cpp
+D:\sppmode\rtklibzj\rtklibzj\sbas.cpp(40,10): error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  geoid.cpp
+D:\sppmode\rtklibzj\rtklibzj\geoid.cpp(17,10): error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  preceph.cpp
+D:\sppmode\rtklibzj\rtklibzj\preceph.cpp(52,10): error C1083: 无法打开包括文件: “rtklib.h”: No such file or directory
+  正在生成代码...
